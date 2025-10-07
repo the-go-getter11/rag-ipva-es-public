@@ -2,6 +2,10 @@
 
 Assistente tributário para IPVA do Espírito Santo com RAG, Gemini, TF-IDF e interface Streamlit.
 
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge.svg)](https://streamlit.io/cloud)
+
+> Clique em “Deploy to Streamlit” e selecione este repositório. Use `project/app/streamlit_app.py` como Main file path e cole os Secrets abaixo.
+
 ## Deploy no Streamlit Cloud
 
 1. Crie um app em [Streamlit Cloud](https://streamlit.io/cloud) usando este repositório público.
